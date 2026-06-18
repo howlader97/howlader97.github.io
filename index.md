@@ -1,5 +1,5 @@
 ---
-title: Remon Chandra Howlader | Backend Engineer
+title: Remon Chandra Howlader | Fontend Engineer
 ---
 
 # Hello, I'm Remon Chandra Howlader 👋
