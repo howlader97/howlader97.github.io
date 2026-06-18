@@ -1,11 +1,11 @@
 ---
-title: Remon Chandra Howlader | Fontend Engineer
+title: Remon Chandra Howlader | Frontend Engineer
 ---
 
-# Hello, I'm Remon Chandra Howlader 👋
-### Frontend Engineer & Software A Enthusiast
+# Hello, I'm Remon Chandra Howlader 
+### Frontend Engineer & Software Architecture Enthusiast
 
-Welcome to my personal homepage! I am a passionate Software Engineer based in Bangladesh, specializing in building scalable, high-performance backend systems and integrating AI solutions. I focus deeply on software architecture, clean code, and robust engineering patterns.Thanks you
+I am a Flutter Developer passionate about crafting beautiful, high-performance mobile applications for Android and iOS. With experience in Flutter, Firebase, REST APIs, state management solutions, and clean architecture, I focus on building scalable and maintainable applications. I am constantly exploring new technologies and best practices to create seamless digital experiences and deliver quality software products.
 
 <br>
 
