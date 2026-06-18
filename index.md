@@ -3,9 +3,9 @@ title: Remon Chandra Howlader | Fontend Engineer
 ---
 
 # Hello, I'm Remon Chandra Howlader 👋
-### Frontend Engineer & Software  Enthusiast
+### Frontend Engineer & Software A Enthusiast
 
-Welcome to my personal homepage! I am a passionate Software Engineer based in Bangladesh, specializing in building scalable, high-performance backend systems and integrating AI solutions. I focus deeply on software architecture, clean code, and robust engineering patterns.
+Welcome to my personal homepage! I am a passionate Software Engineer based in Bangladesh, specializing in building scalable, high-performance backend systems and integrating AI solutions. I focus deeply on software architecture, clean code, and robust engineering patterns.Thanks you
 
 <br>
 
