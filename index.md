@@ -10,9 +10,8 @@ I am a Flutter Developer passionate about crafting beautiful, high-performance m
 <br>
 
 ## Quick Links
-* 📝 **Read my thoughts:** [Visit My Blog](https://robiulsunnyemon.github.io/my-blog/)
-* 💼 **Connect on LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/robiulsunnyemon)
-* 🛠️ **View GitHub Projects:** [GitHub Repositories](https://github.com/robiulsunnyemon?tab=repositories)
+* 💼 **Connect on LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/chremon1)
+* 🛠️ **View GitHub Projects:** [GitHub Repositories](https://github.com/howlader97?tab=repositories)
 
 <br>
 
@@ -20,40 +19,19 @@ I am a Flutter Developer passionate about crafting beautiful, high-performance m
 
 | Area | Technologies |
 | :--- | :--- |
-| **Backend Frameworks** | Python (FastAPI, Django), Java (Spring Boot) |
-| **Message Brokers & Task Queues** | Apache Kafka, RabbitMQ, Celery |
-| **Databases & Caching** | PostgreSQL, MongoDB, Redis |
-| **AI & Computer Vision** | LangChain (RAG Ecosystem), YOLOv8 |
-| **Frontend & Mobile** | Flutter, HTML5, CSS3, JavaScript |
-| **DevOps & Infrastructure** | Docker, Docker Compose, CI/CD Pipelines, LiveKit |
-| **Architectural Concepts** | Microservices, Service Discovery, Load Balancing, Circuit Breakers, TDD, Clean Architecture |
+
+| **Frontend & Mobile** | Flutter, HTML5, CSS3, |
+| **DevOps & Infrastructure** | CI/CD Pipelines, LiveKit |
+| **Architectural Concepts** | MVC, MVVM, Clean Architecture |
 
 <br>
 
 ## 💼 Professional Experience
 
-### Associate Software Engineer
+### Software Devloper
 **MAK Tech Solutions** • Full-time  
-*Jul 2025 – Present • Dhaka, Bangladesh (On-site)*
-* Engineered high-performance, scalable backend architectures and developed enterprise-grade software solutions using **Python (FastAPI, Django)** and **Java (Spring Boot)**.
-* Focused deeply on microservices design patterns, optimizing service discovery, and setting up robust containerized environments using **Docker**.
+*Jan 2025 – Present • Dhaka, Bangladesh (On-site)* 
 * Managed front-end integrations and cross-platform alignment utilizing the **Flutter** ecosystem.
-
-<br>
-
-### Software Developer
-**CodeAlpha** • Internship  
-*Feb 2025 – Sep 2025 • Remote*
-* Participated actively in the complete **Software Development Life Cycle (SDLC)**, delivering reliable code components for web backend systems.
-* Implemented clean code principles and integrated relational/non-relational database layers.
-
-<br>
-
-### Software Developer
-**OmegaSoft BD** • Internship  
-*Feb 2025 – Jul 2025 • Remote*
-* Developed a scalable SaaS-based POS (Point of Sale) system tailored for Small and Medium Enterprises (SMEs), heavily inspired by **Loyverse**.
-* Enforced modular architecture practices to maintain a decoupling of core services and enhanced overall system testability.
 
 <br>
 
