@@ -8,19 +8,18 @@ title: Remon Chandra Howlader | Frontend Engineer
 I am a Flutter Developer passionate about crafting beautiful, high-performance mobile applications for Android and iOS. With experience in Flutter, Firebase, REST APIs, state management solutions, and clean architecture, I focus on building scalable and maintainable applications. I am constantly exploring new technologies and best practices to create seamless digital experiences and deliver quality software products.
 
 <br>
-
 ## Quick Links
 * 💼 **Connect on LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/chremon1)
 * 🛠️ **View GitHub Projects:** [GitHub Repositories](https://github.com/howlader97?tab=repositories)
 
 <br>
-
 ## Technical Toolkit
 
 | Area | Technologies |
 | :--- | :--- |
 
 | **Frontend & Mobile** | Flutter, HTML5, CSS3, |
+| **Programing Language** | Dart,C |
 | **DevOps & Infrastructure** | CI/CD Pipelines, LiveKit |
 | **Architectural Concepts** | MVC, MVVM, Clean Architecture |
 
@@ -37,33 +36,156 @@ I am a Flutter Developer passionate about crafting beautiful, high-performance m
 
 ## 📂 Featured Projects
 ---
-### 🧠 ExamGuru
-An AI-powered academic platform engineered using **LangChain** and **Retrieval-Augmented Generation (RAG)**. It seamlessly processes the Bangladesh curriculum to auto-generate context-aware examinations.
+### ✍️  Sonographer Pal – Medical Learning Application
+
+**Sonographer Pal** is a production-ready Flutter application designed for **sonography students, educators, and healthcare professionals**. The app provides an accessible learning platform with educational resources, helping users improve their knowledge and practical understanding of medical sonography.
+
+### Key Features
+
+* Educational platform tailored for sonography learning and professional development.
+* Secure user authentication and profile management.
+* REST API integration for dynamic content and data synchronization.
+* Responsive and intuitive UI optimized for a seamless learning experience.
+* Performance-focused architecture for scalability and maintainability.
+* Published on the **Google Play Store** with ongoing maintenance, feature enhancements, and bug fixes.
+
+### Tech Stack
+
+* Flutter
+* Dart
+* GetX
+* REST API
+* HTTP
+* Firebase
+* Git & GitHub
+
+### My Responsibilities
+
+* Developed and maintained the complete Flutter application.
+* Designed and implemented responsive, user-friendly interfaces.
+* Integrated REST APIs to deliver dynamic educational content.
+* Implemented secure authentication and application state management using **GetX**.
+* Optimized application performance and resolved production issues.
+* Published the app on the **Google Play Store** and continued supporting it with regular updates, feature improvements, and bug fixes.
+
+### Google Play
+
+https://play.google.com/store/apps/details?id=com.shomoshotime.app&hl=en
+
+
+<br>
+### Nexprime – Multi-Vendor E-Commerce App
+
+A feature-rich **multi-vendor e-commerce mobile application** where both vendors and customers can buy and sell products through a unified platform. The application provides a seamless shopping experience with secure payments, real-time communication, and live product showcasing.
+
+### Key Features
+
+* Multi-role system with **Customer** and **Vendor** accounts.
+* Customers can browse, purchase, and also become sellers by listing their own products.
+* Vendors can manage their stores, upload products, and host **live streaming sessions** to showcase products in real time.
+* Built-in **real-time messaging system** for direct communication between customers and vendors.
+* Secure online payments powered by **Stripe Payment Gateway**.
+* Product browsing with categories, search, and detailed product information.
+* Shopping cart, wishlist, and order management.
+* User authentication and profile management.
+* Responsive and user-friendly UI designed for a smooth shopping experience.
+
+### Technologies
+
+* Flutter
+* LiveKit
+* Stripe Payment Gateway
+* REST API
+* State Management ( Riverpod )
+
+### GitHub Repository
+
+https://github.com/howlader97/Nexprime_Ecommerce_app.git
+
 
 <br>
 
-### 🎥 Real-Time Traffic Monitoring System
-A high-throughput video analytics pipeline leveraging **YOLOv8** for real-time vehicle classification and traffic density tracking, exposed via a high-performance **FastAPI** backend.
+### 🎥InstaLive – Live Streaming & Social Commerce App
+
+**InstaLive** is a Flutter-based live streaming application that enables creators and businesses to engage with their audience through real-time video streaming. The app also includes secure payments, instant messaging, and a scalable architecture for a seamless user experience.
+
+### Key Features
+
+* Real-time live video streaming powered by **LiveKit**.
+* One-to-one real-time messaging system.
+* Secure online payments integrated with **Stripe Payment Gateway**.
+* User authentication and profile management.
+* Interactive live streaming experience with audience engagement.
+* Responsive and modern UI optimized for mobile devices.
+* Scalable and maintainable project structure using **Get CLI Architecture**.
+
+### Tech Stack
+
+* Flutter
+* Dart
+* GetX
+* Get CLI Architecture
+* LiveKit
+* Stripe Payment Gateway
+* REST API
+* Git & GitHub
+
+### My Responsibilities
+
+* Developed the complete Flutter application using **GetX** for state management.
+* Implemented real-time live streaming with **LiveKit**.
+* Built the in-app messaging system for seamless communication.
+* Integrated **Stripe** for secure payment processing.
+* Structured the project using **Get CLI Architecture** for better scalability and maintainability.
+* Connected the application with backend APIs and optimized performance for a smooth user experience.
+
+### GitHub Repository
+
+https://github.com/howlader97/Instalive_flutter_app.git
+
 
 <br>
 
-### 🔐 Med-Vault
-An advanced AI study assistant tailored for medical students. It parses complex lecture slides and handwritten clinical notes using specialized processing pipelines.
+### 🚚 Food Delivery App
+
+A modern **Flutter-based food delivery application** that provides a smooth and intuitive ordering experience. Users can browse restaurants, explore menus, place orders, and manage their profiles through a clean and responsive interface.
+
+### Key Features
+
+* Browse restaurants and food categories.
+* View detailed food information with images and pricing.
+* Add items to the cart and manage orders.
+* User authentication and profile management.
+* Responsive and user-friendly UI.
+* Efficient navigation using **GetX Route Management**.
+* Fast and scalable state management with **GetX**.
+* REST API integration for dynamic data.
+
+### Tech Stack
+
+* Flutter
+* Dart
+* GetX (State Management)
+* GetX Route Management
+* REST API
+* Git & GitHub
+
+### My Responsibilities
+
+* Developed the complete Flutter application.
+* Implemented application state management using **GetX**.
+* Configured navigation using **GetX Route Management**.
+* Integrated REST APIs for fetching food, restaurant, and order data.
+* Designed responsive UI for a seamless user experience.
+* Optimized app performance and maintained clean, scalable code.
+
+### GitHub Repository
+
+https://github.com/howlader97/Food-Delivery-project
 
 <br>
-
-### ⚡ Erron
-A high-performance live streaming and instant messaging infrastructure built on top of **LiveKit**, **MongoDB**, and **Redis** for sub-second latency communication.
-
-<br>
-
-## ✍️ Latest Articles
-I write about software engineering, backend architecture, and Python/Java ecosystems. Check out my latest write-ups over at my **[Live Blog](https://robiulsunnyemon.github.io/my-blog/)**.
-
-<br>
-
 ## 📫 Get In Touch
-* **Email:** robiulsunnyemon@gmail.com
+* **Email:** remonhowlader97@gmail.com ** chremon84@gmail.com
 * **Location:** Dhaka, Bangladesh
 
 <br>
