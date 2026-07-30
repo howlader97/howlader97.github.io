@@ -1,30 +1,24 @@
 ---
 title: Remon Chandra Howlader | Frontend Engineer
 ---
-<table class="hero">
-<tr>
+<div class="hero">
 
-<td class="hero-text">
+  <div class="hero-content">
+    <h1>Hello, I'm Remon Chandra Howlader</h1>
 
-<h1>Hello, I'm Remon Chandra Howlader</h1>
+    <h3>Frontend Engineer & Software Architecture Enthusiast</h3>
 
-<h3>Frontend Engineer & Software Architecture Enthusiast</h3>
+    <p>
+      I am a Flutter Developer passionate about crafting beautiful, high-performance mobile applications for Android and iOS. With experience in Flutter, Firebase, REST APIs, state management solutions, and clean architecture, I focus on building scalable and maintainable applications. I am constantly exploring new technologies and best practices to create seamless digital experiences and deliver quality software products.
+    </p>
+  </div>
 
-<p>
-I am a Flutter Developer passionate about crafting beautiful, high-performance mobile applications for Android and iOS. With experience in Flutter, Firebase, REST APIs, state management solutions, and clean architecture, I focus on building scalable and maintainable applications. I am constantly exploring new technologies and best practices to create seamless digital experiences and deliver quality software products.
-</p>
+  <div class="hero-photo">
+    <img src="assets/remon111.jpg" alt="Remon Chandra Howlader">
+  </div>
 
-</td>
+</div>
 
-<td class="hero-image">
-
-<img src="assets/remon111.jpg" alt="Remon Chandra Howlader">
-
-</td>
-
-</tr>
-</table>
-<br>
 ## Quick Links
 * 💼 **Connect on LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/chremon1)
 * 🛠️ **View GitHub Projects:** [GitHub Repositories](https://github.com/howlader97?tab=repositories)
@@ -374,21 +368,45 @@ https://github.com/howlader97/Food-Delivery-project
       border-bottom: 1px solid #30363d !important;
     }
   }
-</style>
-/* ===========================
+  /* =====================================
    HERO SECTION
-=========================== */
+===================================== */
 
 .hero{
     display:flex;
     align-items:center;
     justify-content:space-between;
-    gap:50px;
-    margin-bottom:40px;
+    gap:60px;
+    margin:20px 0 45px;
+    width:100%;
 }
 
 .hero-content{
     flex:1;
+    min-width:0;
+}
+
+.hero-content h1{
+    margin:0 0 12px;
+    font-size:42px;
+    line-height:1.2;
+    font-weight:700;
+    color:#fff;
+}
+
+.hero-content h3{
+    margin:0 0 22px;
+    font-size:24px;
+    color:#58a6ff;
+    font-weight:600;
+    line-height:1.4;
+}
+
+.hero-content p{
+    margin:0;
+    font-size:17px;
+    line-height:1.8;
+    color:#c9d1d9;
 }
 
 .hero-photo{
@@ -396,27 +414,65 @@ https://github.com/howlader97/Food-Delivery-project
 }
 
 .hero-photo img{
-    width:220px;
-    height:220px;
+    width:260px;
+    height:260px;
     object-fit:cover;
     border-radius:50%;
-    border:4px solid #30363d;
+    border:5px solid #30363d;
+    box-shadow:0 10px 30px rgba(0,0,0,.35);
 }
+
+/* Tablet */
+
+@media (max-width:992px){
+
+.hero{
+    gap:35px;
+}
+
+.hero-content h1{
+    font-size:34px;
+}
+
+.hero-content h3{
+    font-size:21px;
+}
+
+.hero-photo img{
+    width:210px;
+    height:210px;
+}
+
+}
+
+/* Mobile */
 
 @media (max-width:768px){
 
 .hero{
     flex-direction:column-reverse;
     text-align:center;
+    gap:25px;
 }
 
 .hero-photo img{
-    width:170px;
-    height:170px;
+    width:180px;
+    height:180px;
+}
+
+.hero-content h1{
+    font-size:30px;
+}
+
+.hero-content h3{
+    font-size:20px;
 }
 
 .hero-content p{
+    font-size:16px;
     text-align:left;
 }
 
 }
+</style>
+
