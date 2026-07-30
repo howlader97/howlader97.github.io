@@ -1,10 +1,7 @@
----
-title: Remon Chandra Howlader | Frontend Engineer
----
-<div class="hero">
 
+<div class="hero">
   <div class="hero-content">
-    <h1>Hello, I'm Remon Chandra Howlader</h1>
+    <h2>Hello, I'm Remon Chandra Howlader</h2>
 
     <h3>Frontend Engineer & Software Architecture Enthusiast</h3>
 
@@ -416,9 +413,11 @@ https://github.com/howlader97/Food-Delivery-project
 .hero-photo img{
     width:260px;
     height:260px;
-    object-fit:cover;
+    object-fit:contain;
+    object-position:center;
     border-radius:50%;
     border:5px solid #30363d;
+    background:#ffffff;
     box-shadow:0 10px 30px rgba(0,0,0,.35);
 }
 
