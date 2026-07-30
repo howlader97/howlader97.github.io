@@ -375,34 +375,27 @@ https://github.com/howlader97/Food-Delivery-project
     }
   }
 </style>
-/* =========================
+/* ===========================
    HERO SECTION
-========================= */
+=========================== */
 
 .hero{
-    width:100%;
-    border:none !important;
-    margin:0 0 40px 0 !important;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:50px;
+    margin-bottom:40px;
 }
 
-.hero td{
-    border:none !important;
-    background:transparent !important;
-    vertical-align:middle;
-    padding:10px !important;
+.hero-content{
+    flex:1;
 }
 
-.hero td:first-child{
-    width:72% !important;
-    border:none !important;
+.hero-photo{
+    flex-shrink:0;
 }
 
-.hero td:last-child{
-    width:28% !important;
-    text-align:center;
-}
-
-.hero img{
+.hero-photo img{
     width:220px;
     height:220px;
     object-fit:cover;
@@ -410,40 +403,20 @@ https://github.com/howlader97/Food-Delivery-project
     border:4px solid #30363d;
 }
 
-/* Mobile */
 @media (max-width:768px){
 
-.hero,
-.hero tbody,
-.hero tr{
-    display:block !important;
+.hero{
+    flex-direction:column-reverse;
+    text-align:center;
 }
 
-.hero td{
-    display:block !important;
-    width:100% !important;
-    text-align:center !important;
-}
-
-.hero-image{
-    order:-1;
-    margin-bottom:20px;
-}
-
-.hero img{
+.hero-photo img{
     width:170px;
     height:170px;
 }
 
-.hero h1{
-    font-size:32px;
-}
-
-.hero h3{
-    font-size:20px;
-}
-
-.hero p{
+.hero-content p{
     text-align:left;
 }
+
 }
