@@ -1,28 +1,29 @@
 ---
 title: Remon Chandra Howlader | Frontend Engineer
 ---
-<table>
+<table class="hero">
 <tr>
 
-<td width="75%" valign="top">
+<td class="hero-text">
 
-# Hello, I'm Remon Chandra Howlader
+<h1>Hello, I'm Remon Chandra Howlader</h1>
 
-### Frontend Engineer & Software Architecture Enthusiast
+<h3>Frontend Engineer & Software Architecture Enthusiast</h3>
 
+<p>
 I am a Flutter Developer passionate about crafting beautiful, high-performance mobile applications for Android and iOS. With experience in Flutter, Firebase, REST APIs, state management solutions, and clean architecture, I focus on building scalable and maintainable applications. I am constantly exploring new technologies and best practices to create seamless digital experiences and deliver quality software products.
+</p>
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td class="hero-image">
 
-<img src="assets/remon111.jpg" alt="Remon Chandra Howlader" width="200">
+<img src="assets/remon111.jpg" alt="Remon Chandra Howlader">
 
 </td>
 
 </tr>
 </table>
-
 <br>
 ## Quick Links
 * 💼 **Connect on LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/chremon1)
@@ -374,3 +375,75 @@ https://github.com/howlader97/Food-Delivery-project
     }
   }
 </style>
+/* =========================
+   HERO SECTION
+========================= */
+
+.hero{
+    width:100%;
+    border:none !important;
+    margin:0 0 40px 0 !important;
+}
+
+.hero td{
+    border:none !important;
+    background:transparent !important;
+    vertical-align:middle;
+    padding:10px !important;
+}
+
+.hero td:first-child{
+    width:72% !important;
+    border:none !important;
+}
+
+.hero td:last-child{
+    width:28% !important;
+    text-align:center;
+}
+
+.hero img{
+    width:220px;
+    height:220px;
+    object-fit:cover;
+    border-radius:50%;
+    border:4px solid #30363d;
+}
+
+/* Mobile */
+@media (max-width:768px){
+
+.hero,
+.hero tbody,
+.hero tr{
+    display:block !important;
+}
+
+.hero td{
+    display:block !important;
+    width:100% !important;
+    text-align:center !important;
+}
+
+.hero-image{
+    order:-1;
+    margin-bottom:20px;
+}
+
+.hero img{
+    width:170px;
+    height:170px;
+}
+
+.hero h1{
+    font-size:32px;
+}
+
+.hero h3{
+    font-size:20px;
+}
+
+.hero p{
+    text-align:left;
+}
+}
