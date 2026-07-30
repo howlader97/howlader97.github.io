@@ -1,11 +1,27 @@
 ---
 title: Remon Chandra Howlader | Frontend Engineer
 ---
+<table>
+<tr>
 
-# Hello, I'm Remon Chandra Howlader 
+<td width="75%" valign="top">
+
+# Hello, I'm Remon Chandra Howlader
+
 ### Frontend Engineer & Software Architecture Enthusiast
 
 I am a Flutter Developer passionate about crafting beautiful, high-performance mobile applications for Android and iOS. With experience in Flutter, Firebase, REST APIs, state management solutions, and clean architecture, I focus on building scalable and maintainable applications. I am constantly exploring new technologies and best practices to create seamless digital experiences and deliver quality software products.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<img src="assets/remon111.jpg" alt="Remon Chandra Howlader" width="200">
+
+</td>
+
+</tr>
+</table>
 
 <br>
 ## Quick Links
