@@ -1,4 +1,6 @@
-
+---
+title:
+---
 <div class="hero">
   <div class="hero-content">
     <h2>Hello, I'm Remon Chandra Howlader</h2>
