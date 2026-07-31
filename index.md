@@ -491,5 +491,10 @@ h1.page__title {
     font-size: 56px !important;
     font-weight: 700 !important;
 }
+  h1:first-of-type {
+    color: #ffffff !important;
+    font-size: 56px !important;
+    font-weight: 700 !important;
+}
 </style>
 
