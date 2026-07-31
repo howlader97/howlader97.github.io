@@ -11,7 +11,7 @@
   </div>
 
   <div class="hero-photo">
-    <img src="assets/remon111.jpg" alt="Remon Chandra Howlader">
+     <img src="{{ site.profile_image }}" alt="Remon Chandra Howlader">
   </div>
 
 </div>
@@ -411,13 +411,15 @@ https://github.com/howlader97/Food-Delivery-project
 }
 
 .hero-photo img{
-    width:260px;
-    height:260px;
+    width:280px;
+    height:280px;
     object-fit:cover;
-    object-position:center;
+    object-position:center top;
     border-radius:50%;
-    border:5px solid #30363d;
-    background:#ffffff;
+    border:6px solid #30363d;
+    background:#fff;
+    display:block;
+    box-shadow:0 10px 30px rgba(0,0,0,0.35);
 }
 
 /* Tablet */
