@@ -1,7 +1,4 @@
----
-layout: null
-title: ""
----
+
 <div class="hero">
   <div class="hero-content">
     <h1>Hello, I'm Remon Chandra Howlader</h1>
