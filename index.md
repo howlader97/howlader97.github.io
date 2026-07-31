@@ -1,9 +1,9 @@
 ---
-title:
+title: ""
 ---
 <div class="hero">
   <div class="hero-content">
-    <h2>Hello, I'm Remon Chandra Howlader</h2>
+    <h1>Hello, I'm Remon Chandra Howlader</h1>
 
     <h3>Frontend Engineer & Software Architecture Enthusiast</h3>
 
@@ -415,12 +415,11 @@ https://github.com/howlader97/Food-Delivery-project
 .hero-photo img{
     width:260px;
     height:260px;
-    object-fit:contain;
+    object-fit:cover;
     object-position:center;
     border-radius:50%;
     border:5px solid #30363d;
     background:#ffffff;
-    box-shadow:0 10px 30px rgba(0,0,0,.35);
 }
 
 /* Tablet */
@@ -455,11 +454,20 @@ https://github.com/howlader97/Food-Delivery-project
     text-align:center;
     gap:25px;
 }
+  .hero-photo{
+    width:260px;
+    height:260px;
+    border-radius:50%;
+    overflow:hidden;
+    flex-shrink:0;
+}
 
 .hero-photo img{
-    width:180px;
-    height:180px;
+    width:100%;
+    height:100%;
+    object-fit:cover;
 }
+
 
 .hero-content h1{
     font-size:30px;
