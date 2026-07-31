@@ -483,17 +483,10 @@ https://github.com/howlader97/Food-Delivery-project
 }
 
 }
-.page-title,
-.page__title,
-h1.page-title,
-h1.page__title {
+
+h1:first-of-type {
     color: #ffffff !important;
-    font-size: 56px !important;
-    font-weight: 700 !important;
-}
-  h1:first-of-type {
-    color: #ffffff !important;
-    font-size: 56px !important;
+    font-size: 38px !important;
     font-weight: 700 !important;
 }
 </style>
