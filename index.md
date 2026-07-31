@@ -1,7 +1,7 @@
 
 <div class="hero">
   <div class="hero-content">
-    <h1>Hello, I'm Remon Chandra Howlader</h1>
+    
 
     <h3>Frontend Engineer & Software Architecture Enthusiast</h3>
 
@@ -482,6 +482,14 @@ https://github.com/howlader97/Food-Delivery-project
     text-align:left;
 }
 
+}
+.page-title,
+.page__title,
+h1.page-title,
+h1.page__title {
+    color: #ffffff !important;
+    font-size: 56px !important;
+    font-weight: 700 !important;
 }
 </style>
 
